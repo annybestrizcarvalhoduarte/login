@@ -2,3 +2,9 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(253, 222, 243);
 }
+
+div{
+    background-color: rgb(rgb(253, 222, 243), black, pink);
+    top: 50%;
+    left: 50%;
+}
