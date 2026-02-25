@@ -7,4 +7,5 @@ div{
     background-color: rgb(rgb(253, 222, 243), black, pink);
     top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
 }
